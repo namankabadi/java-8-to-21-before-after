@@ -1,4 +1,4 @@
-# Java 8 → 21: 20 Code Snippets Before/After
+# Java 8 → 21: Code Snippets Before/After
 
 Runnable examples of 20 Java upgrades, each with the old way, the modern way,
 and real output. Verified on JDK 21.
